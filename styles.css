@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.tabs {
+    display: flex;
+}
+
+button{
+    background-color: #ffa2eb;
+}
+
+.tab {
+    margin-right: 10px;
+}
+
+.tablinks {
+    background-color: #ffa2eb;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+
+
+.tabcontent {
+    display: none;
+}
